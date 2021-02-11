@@ -1,0 +1,54 @@
+{
+  "timeStamp": 1613048660443,
+  "version": "1.33.2",
+  "userSettings": {
+    "advancedUserEnabled": true,
+    "cloudStorageEnabled": true,
+    "externalLists": "https://abp.oisd.nl/light/\nhttps://easylist-downloads.adblockplus.org/fanboy-social.txt\nhttps://gitee.com/ADList/ChinaList2.0/raw/master/ChinaList2.0.txt\nhttps://gitee.com/halflife/list/raw/master/ad.txt\nhttps://gitee.com/sparrow023/codes/jgkh5me1wy3vrcq2x8d9f23/raw?blob_name=gistfile1.txt\nhttps://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt\nhttps://www.i-dont-care-about-cookies.eu/abp/",
+    "importedLists": [
+      "https://abp.oisd.nl/light/",
+      "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+      "https://gitee.com/ADList/ChinaList2.0/raw/master/ChinaList2.0.txt",
+      "https://gitee.com/halflife/list/raw/master/ad.txt",
+      "https://gitee.com/sparrow023/codes/jgkh5me1wy3vrcq2x8d9f23/raw?blob_name=gistfile1.txt",
+      "https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt",
+      "https://www.i-dont-care-about-cookies.eu/abp/"
+    ],
+    "popupPanelSections": 63,
+    "webrtcIPAddressHidden": true
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "https://gitee.com/sparrow023/codes/jgkh5me1wy3vrcq2x8d9f23/raw?blob_name=gistfile1.txt",
+    "https://gitee.com/ADList/ChinaList2.0/raw/master/ChinaList2.0.txt",
+    "https://easylist-downloads.adblockplus.org/fanboy-social.txt",
+    "https://www.i-dont-care-about-cookies.eu/abp/",
+    "https://gitee.com/halflife/list/raw/master/ad.txt"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "ddrk.me",
+    "edge-scheme",
+    "imgur.com",
+    "moz-extension-scheme",
+    "notion.cx",
+    "online-audio-converter.com",
+    "opera-scheme",
+    "share.dmhy.org",
+    "vivaldi-scheme",
+    "www.nfmovies.com",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop\nwww.bilibili.com hdslb.com * noop\nwww.nfmovies.com s96.cnzz.com * noop\nwww.nfmovies.com nfmovies.com * noop\nwww.nfmovies.com www.nfmovies.com * noop\nwww.nfmovies.com naifei.shop * noop\nwww.nfmovies.com cnzz.com * noop\nwww.nfmovies.com google-analytics.com * noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-popups: www.nfmovies.com true",
+  "userFilters": ""
+}
